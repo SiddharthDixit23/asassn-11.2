@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataStorageAssn11.2</string>
+    <string name="hello">Hello World, UsingSQLite!</string>
+    <string name="COUNTRY_LABEL">Country</string>
+</resources>
